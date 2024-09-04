@@ -30,13 +30,6 @@
 - 🎨 Cuando no estoy programando, disfruto explorando el diseño gráfico.
 - 🍕 Aficionado a la pizza, por supuesto. 
 
-## Achievements 🏆
-
-| ![Shark Badge](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png) | ![YOLO Badge](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png) |
-|:---------------------------------------------:|:--------------------------------------------:|
-|      **Shark Badge** - x2 🦈                   |   **YOLO Badge** - 🎨 YOLO Spirit             |
-
-
 ## 🛠️ Estadísticas de GitHub:
 
 ![NunezWeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunezweb&show_icons=true&theme=tokyonight)
