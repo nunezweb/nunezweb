@@ -14,7 +14,7 @@
 - Profundizando conocimientos en Python
 - Explorando el mundo de la **Inteligencia Artificial**. 🤖
 
-## 🔗 Encuéntrame en otros lugares:
+## 🔗 Sígueme!:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nunezweb/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nunezweb)
