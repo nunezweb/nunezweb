@@ -29,11 +29,11 @@
 - 🌍 ¡Me encanta colaborar en proyectos de código abierto!
 - 🎨 Cuando no estoy programando, disfruto explorando el diseño gráfico.
 - 🍕 Aficionado a la pizza, por supuesto. 
-
+<!--
 ## 🛠️ Estadísticas de GitHub:
 
 ![NunezWeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunezweb&show_icons=true&theme=tokyonight)
-
+-->
 ---
 
 *"El único límite es la imaginación."* 🚀
