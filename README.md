@@ -33,7 +33,7 @@ Welcome to my digital corner! 🚀 I’m a Full Stack Web Developer passionate a
 
 ## 🔥 Streak Stats
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nunezweb&theme=iceberg" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nunezweb&theme=black-ice&mode=weekly" alt="GitHub Streak" /></a>
 <p>
 <!--
 ## 🛠️ GitHub Stats:
