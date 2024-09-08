@@ -30,9 +30,11 @@ Welcome to my digital corner! 🚀 I’m a Full Stack Web Developer passionate a
 - 🎨 When I’m not coding, I enjoy exploring graphic design.
 - 🍕 A pizza lover, of course.
 
+
 ## 🔥 Streak Stats
+<p align="center">
   [![GitHub Streak](https://streak-stats.demolab.com?user=nunezweb&theme=iceberg)](https://git.io/streak-stats)
-  
+<p>
 <!--
 ## 🛠️ GitHub Stats:
 
