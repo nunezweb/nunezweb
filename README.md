@@ -28,7 +28,10 @@
 
 - 🌍 ¡Me encanta colaborar en proyectos de código abierto!
 - 🎨 Cuando no estoy programando, disfruto explorando el diseño gráfico.
-- 🍕 Aficionado a la pizza, por supuesto. 
+- 🍕 Aficionado a la pizza, por supuesto.
+
+## 🔥 Streak Stats
+  [![GitHub Streak](https://streak-stats.demolab.com?user=nunezweb&theme=dark)](https://git.io/streak-stats)
 <!--
 ## 🛠️ Estadísticas de GitHub:
 
