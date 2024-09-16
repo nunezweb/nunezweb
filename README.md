@@ -6,7 +6,7 @@ Welcome to my digital corner! 🚀 I’m a Full Stack Web Developer passionate a
 
 ✨ **Frontend**: HTML5, CSS3, JavaScript, React, Bootstrap  
 🔧 **Backend**: Python, SQLAlchemy, Flask, SQL  
-🛠️ **Tools and Technologies**: Git, GitHub, Docker, Webpack, CI/CD  
+🛠️ **Tools and Technologies**: Git, GitHub, Gitpod
 
 ## 🌱 I’m currently...
 - Developing applications to facilitate business management. 📈
