@@ -31,10 +31,20 @@ Welcome to my digital corner! 🚀 I’m a Full Stack Web Developer passionate a
 - 🍕 A pizza lover, of course.
 
 
-## 🔥 Streak Stats
+## 📊 GitHub Stats
+
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nunezweb&theme=black-ice&mode=weekly" alt="GitHub Streak" /></a>
-<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nunezweb&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezweb&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nunezweb&theme=github-dark&hide_border=true" />
+</p>
+
 <!--
 ## 🛠️ GitHub Stats:
 
