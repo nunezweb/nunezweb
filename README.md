@@ -33,6 +33,8 @@ Welcome to my digital corner! 🚀 I’m a Full Stack Web Developer passionate a
 
 ## 📊 GitHub Stats
 
+![NunezWeb Stats](https://github-stats-card-six.vercel.app/api/card)
+
 <img src="https://github-stats-card-six.vercel.app/api/card" />
 
 
