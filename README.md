@@ -33,26 +33,10 @@ Welcome to my digital corner! 🚀 I’m a Full Stack Web Developer passionate a
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nunezweb&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=nunezweb&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunezweb&layout=compact&theme=dark&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nunezweb&theme=github-dark&area=true" />
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nunezweb&theme=github-dark&hide_border=true&area=true"
-    alt="Contribution Graph"
-  />
-</p>
 
 
 <!--
