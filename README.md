@@ -35,16 +35,6 @@ Welcome to my digital corner! 🚀 I’m a Full Stack Web Developer passionate a
 
 ![NunezWeb Stats](https://github-stats-card-six.vercel.app/api/card)
 
-<img src="https://github-stats-card-six.vercel.app/api/card" />
-
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=nunezweb&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nunezweb&theme=github-dark&area=true" />
-
-
 
 <!--
 ## 🛠️ GitHub Stats:
