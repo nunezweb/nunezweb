@@ -104,7 +104,8 @@ An intelligent automation script that reminds clients about pending payments, im
 
 <div align="center">
 
-![NunezWeb Stats](https://github-stats-card-six.vercel.app/api/card)
+![NunezWeb Stats](https://github-stats-card-git-main-nunezweb.vercel.app/api/card)
+
 
 </div>
 
